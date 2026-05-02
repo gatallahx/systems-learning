@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 int main(void){
-    printf("\nExercise #5\n");
+    printf("\nExercise # 5\n");
     int n=0;
     if (n >= 1 <= 10)
         printf("passed condition");
 
-    printf("\nExercise #3\n");
+    printf("\nExercise # 3\n");
     int i, j, k, expression;
 
     i=3; j=4; k=5;
